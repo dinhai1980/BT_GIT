@@ -12,9 +12,9 @@ public class KiemTraThuVien {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-//		Date date = new Date(System.currentTimeMillis());
-//		
-//		Calendar ca = Calendar.getInstance();
+		Date date = new Date(System.currentTimeMillis());
+		
+		Calendar ca = Calendar.getInstance();
 //		
 //		System.out.println(ca.get(ca.DATE) +"/"+ 
 //							(ca.get(ca.MONTH)+1) + "/" + 
